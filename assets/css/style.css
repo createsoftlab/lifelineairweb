@@ -11900,29 +11900,17 @@ footer .f-item.recent-project-gallery ul li a:hover::after {
 	}
 }
 
-/* Default logo size */
-.logo {
-    width: 100px;    
+
+.gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 columns */
+    gap: 10px;
+    margin-top: 15px;
+}
+
+.gallery-grid a img {
+    width: 100%;
     height: auto;
-    max-width: 100%;
-}
-
-@media (max-width: 992px) {
-    .logo {
-        width: 170px; 
-    }
-}
-
-
-@media (max-width: 768px) {
-    .logo {
-        width: 140px;  
-    }
-}
-
-
-@media (max-width: 480px) {
-    .logo {
-        width: 120px; 
-    }
+    border-radius: 5px;
+    object-fit: cover;
 }
