@@ -491,7 +491,7 @@ nav.validnavs.navbar-full .navbar-collapse ul.nav {
 }
 
 .validnavs .side .widget.social li.linkedin a {
-	background: #0077b5 none repeat scroll 0 0;
+	background: #c81717 none repeat scroll 0 0;
 }
 
 .validnavs .side .widget.social li.dribbble a {
@@ -507,7 +507,7 @@ nav.validnavs.navbar-full .navbar-collapse ul.nav {
 
 .navbar .attr-right .attr-nav .btn-style-one {
 	display: block;
-	background: var(--bg-gradient) !important;
+	background: var(--color-secondary) !important;
 	padding: 13px 40px;
 	text-transform: uppercase;
 	font-size: 15px;

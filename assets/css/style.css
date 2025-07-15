@@ -110,9 +110,9 @@ Sidebar heading:  20px 'Manrope', sans-serif
 	--white: #ffffff;
 	--white-secondary: #bed6dc;
 	--white-secondary: #d8e3f0;
-	--color-primary: #E13833;
+	--color-primary: #002866;
 	--color-secondary: #214BE0;
-	--color-style-two: #fa4a4a;
+	--color-style-two: #002866;
 	--color-style-three: #00e3ff;
 	--color-heading: #0E313A;
 	--color-paragraph: #666666;
@@ -1543,7 +1543,7 @@ p {
 =================================================================== */
 .btn-style-one {
 	display: inline-block;
-	background: var(--color-primary);
+	background: var(--color-secondary);
 	padding: 13px 40px;
 	text-transform: uppercase;
 	font-size: 15px;
@@ -3995,7 +3995,7 @@ ul.list-card p {
 	top: 0;
 	content: "\e80f";
 	font-family: visacoFont;
-	color: var(--dark-optional);
+	color: var(-);
 }
 
 .color-secondary  .about-style-five-info ul li::after {
