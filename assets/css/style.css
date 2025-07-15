@@ -123,7 +123,7 @@ Sidebar heading:  20px 'Manrope', sans-serif
 	--bg-gray-secondary: #e9edfc;
 	--bg-gradient: linear-gradient(90deg, var(--color-primary)  0%, var(--color-secondary) 100%);
 	--bg-gradient-secondary: linear-gradient(90deg, var(--color-secondary)  0%, var(--color-style-three) 100%);
-	--bg-gradient-minimal: linear-gradient(180deg, #f9e4e4 40%, #fffbfa 60%);
+	--bg-gradient-minimal: linear-gradient(180deg, #eff5ff 40%, #fffbfa 60%);
 }
 
 
