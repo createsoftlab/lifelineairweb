@@ -3995,7 +3995,7 @@ ul.list-card p {
 	top: 0;
 	content: "\e80f";
 	font-family: visacoFont;
-	color: var(--color-primary);
+	color: var(--dark-optional);
 }
 
 .color-secondary  .about-style-five-info ul li::after {
@@ -4049,7 +4049,7 @@ ul.list-card p {
 }
 
 .about-style-five-thumb .fun-fact {
-	background: var(--color-primary);
+	background: var(--dark-optional);
 	text-align: center;
 	display: inline-flex;
 	height: 180px;
